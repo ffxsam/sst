@@ -1,5 +1,13 @@
 # @serverless-stack/cli2
 
+## 2.2.3
+
+### Patch Changes
+
+- [`e836f2d41`](https://github.com/serverless-stack/sst/commit/e836f2d41f97a1ad5f88da7907dff658e72645c4) Thanks [@thdxr](https://github.com/thdxr)! - Allow spaces in folder names go runtime
+
+- [`6eb618478`](https://github.com/serverless-stack/sst/commit/6eb618478c759305d908ce6213123c505bc2eb0b) Thanks [@thdxr](https://github.com/thdxr)! - Make sure update command exits
+
 ## 2.2.2
 
 ### Patch Changes
